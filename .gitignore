@@ -1,0 +1,17 @@
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environments
+venv/
+env/
+*.env
+
+# Optional: large data files if you don't want to upload them
+*.csv
+*.gz
+*.zip
