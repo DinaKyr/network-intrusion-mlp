@@ -15,3 +15,5 @@ env/
 *.csv
 *.gz
 *.zip
+
+models/*.joblib
